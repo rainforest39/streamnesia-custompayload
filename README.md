@@ -7,3 +7,6 @@ this will be where your payloads will launch from, so put these in a repository 
 
 If you do not understand, check my payload set in my projects for what I mean.
 ----------------------------
+To put your payload set from github, go in src/Streamnesia-Payloads/LocalPayloadLoader once there, 
+
+locate const string PayloadsUrl = "https://github.com/USERNAME/REPOSITORY/archive/main.zip"; and change as follows.
