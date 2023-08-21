@@ -1,5 +1,5 @@
 # streamnesia-custompayload
-This includes your own way to make payloads for your streamnesia without having strictly 3 possible payload sets to play with.
+This includes your own way to make payloads for your streamnesia without having to strictly play with the few possible payload sets.
 ----------------------------
 Everything in the repository will be where your payloads will download and launch from, so put these in a new repository of your choice. 
 
