@@ -10,4 +10,4 @@ To put your payload set from github, go in src/Streamnesia-Payloads/LocalPayload
 locate const string PayloadsUrl = "https://github.com/USERNAME/REPOSITORY/archive/main.zip"; and change as follows.
 For me, its "https://github.com/rainforest39/streamnesia-payloads/archive/main.zip"
 
-Once this is changed, proceed to run the deploy ps1 file with Powershell. Once completed, proceed in scr/dependency and you will find your final product.
+Once this is changed, make a folder in your amnesia directory called streamnesia and proceed to run the deploy ps1 file with Powershell. Once completed, proceed in Amnesia The Dark Descent\streamnesia and you will find your final product.
