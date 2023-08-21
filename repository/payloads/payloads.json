@@ -1,0 +1,28 @@
+[
+    {
+        "Name": "ANYTHING",
+        "File": "payload.payload",
+        "Sequence": [
+            { "File": "payload.payload", "Delay": "00:00:00" }
+        ]
+    }
+]
+
+
+-- FOR MORE PAYLOADS FOLLOW EX BELOW
+
+   {
+       "Name": "ANYTHING",
+      "File": "payload.payload",
+        "Sequence": [
+           { "File": "payload.payload", "Delay": "00:00:00" }
+        ]
+    },
+    {
+        "Name": "ANYTHING",
+       "File": "payload.payload",
+       "Sequence": [
+           { "File": "payload.payload", "Delay": "00:00:00" }
+       ]
+   }
+]
