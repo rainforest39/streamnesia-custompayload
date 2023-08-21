@@ -8,6 +8,8 @@ If you do not understand, check my payload set in my projects for what I mean.
 To put your payload set from github, go in src/Streamnesia-Payloads/LocalPayloadLoader once there, 
 
 locate const string PayloadsUrl = "https://github.com/USERNAME/REPOSITORY/archive/main.zip"; and change as follows.
+|
+|
 for me it would be const string PayloadsUrl = "https://github.com/rainforest39/streamnesia-payloads/archive/main.zip";
 
 Once this is changed, proceed to run the deploy ps1 file with Powershell. Once completed, proceed in scr/dependency and you will find your final product.
