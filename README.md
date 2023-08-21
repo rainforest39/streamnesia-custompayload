@@ -1,9 +1,9 @@
 # streamnesia-custompayload
 This includes your own way to make payloads for your streamnesia without having to strictly play with the few possible payload sets.
 ----------------------------
-Everything in the repository will be where your payloads will download and launch from, so put these in a new repository of your choice. 
+Everything in the repository will be where your payload has been downloaded and is launching from, so put these in a new repository of your choice.
 
-If you do not understand, check my payload set in my projects for what I mean.
+If you do not understand, check my payload set in my projects for further detail.
 ----------------------------
 To put your payload set from github, go in src/Streamnesia-Payloads/LocalPayloadLoader once there, 
 
